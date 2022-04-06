@@ -47,4 +47,4 @@ st.write('You selected:', options)
 ```
 
 ## Further reading
-[`st.multiselect`](https://docs.streamlit.io/library/api-reference/widgets/st.multiselect)
+- [`st.multiselect`](https://docs.streamlit.io/library/api-reference/widgets/st.multiselect)
